@@ -44,4 +44,6 @@
 
 * Based on my findings, we can classify these Crypto currencies into 4 distinct classes. Basically, after 4 clusters.
 
+<<<<<<< HEAD
 ![CryptoClasses](ClassesHbar.png)
+
